@@ -23,5 +23,5 @@ Applying CSS for layout, spacing, and visual hierarchy
 
 View Live
 
-[View the page here](replace # with your URL)
+[View the page here]( https://patrick-gif955.github.io/fitness/)
  
